@@ -1,0 +1,10 @@
++------------------------------------+
+stage-01
+your stamina is ⚔️90
+your health is ❤️‍🩹90
+game saved successfully ©️ 2024 Hiyosha Vinupama
++------------------------------------+
+stage-02
+your stamina is ⚔️-20
+your health is ❤️‍🩹-80
+game saved successfully ©️ 2024 Hiyosha Vinupama
